@@ -1,4 +1,4 @@
-# RandomSoundPlay
+# SonanceSurprise
 Randomly play a sound, surprise someone you truly care about. 
 
 ## Features
