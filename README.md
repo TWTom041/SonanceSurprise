@@ -2,13 +2,13 @@
 Randomly play a sound, surprise someone you truly care about. 
 
 ## Features
-- Play sounds randomly at random times.
+- Play sounds at random times.
 - Custom setting of time range.
 - Custom audio source.
 - Easy to deploy.
 
 ## How to use
-1. Go to the [website](https://twtom041.github.io/RandomSoundPlay/)
+1. Go to the [website](https://twtom041.github.io/SonanceSurprise/)
 2. Select sound source, you can choose from built-in sounds, upload audio, or audio url.
 3. Set the range of the random time. E.g. from 30s~60s
 4. Click "Play Random Sounds."
