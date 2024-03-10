@@ -1,4 +1,6 @@
 # RandomSoundPlay
+Randomly play a sound, surprise someone you truly care about. 
+
 ## Features
 - Play sounds randomly at random times.
 - Custom setting of time range.
