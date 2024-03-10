@@ -1,8 +1,9 @@
 <h1 align="center">SonanceSurprise</h1>
 
+<p align="center">
 <img align="center" src=https://raw.githubusercontent.com/TWTom041/RandomSoundPlay/gh-pages/logo.jpg width=250>
-
-<p align="center">Randomly play a sound, surprise someone you truly care about.</p>
+Randomly play a sound, surprise someone you truly care about.
+</p>
 
 ## Features
 - Play sounds at random times.
