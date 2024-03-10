@@ -1,3 +1,5 @@
+![logo](https://github.com/TWTom041/SonanceSurprise/assets/57289975/f462ae35-d453-49c2-9605-66999a7e2638)
+
 # SonanceSurprise
 Randomly play a sound, surprise someone you truly care about. 
 
