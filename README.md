@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/TWTom041/RandomSoundPlay/gh-pages/logo.jpg)
+<img src=https://raw.githubusercontent.com/TWTom041/RandomSoundPlay/gh-pages/logo.jpg width=250>
 
 # SonanceSurprise
 Randomly play a sound, surprise someone you truly care about. 
