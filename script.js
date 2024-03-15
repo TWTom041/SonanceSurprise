@@ -1,7 +1,8 @@
 const builtin_audio_urls = [
   "https://raw.githubusercontent.com/TWTom041/RandomSoundPlay/gh-pages/builtin_sounds/rick%20intro.mp3",
   "https://raw.githubusercontent.com/TWTom041/RandomSoundPlay/gh-pages/builtin_sounds/laugh.wav",
-  "https://raw.githubusercontent.com/TWTom041/RandomSoundPlay/gh-pages/builtin_sounds/vine%20boom.mp3"
+  "https://raw.githubusercontent.com/TWTom041/RandomSoundPlay/gh-pages/builtin_sounds/vine%20boom.mp3",
+  "https://raw.githubusercontent.com/TWTom041/RandomSoundPlay/gh-pages/builtin_sounds/Ding%20Dong.mp3"
 ]
 
 
